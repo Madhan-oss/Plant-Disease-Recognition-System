@@ -1,4 +1,5 @@
 🌿 Plant Disease Recognition System
+
 A Deep Learning-based web application for identifying plant diseases from leaf images. This system helps farmers, agricultural professionals, and researchers quickly detect plant health issues using computer vision and image classification.
 
 🚀 Features
